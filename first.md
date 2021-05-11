@@ -32,4 +32,5 @@ int main(){
 ****
 #### Interest in Different fields of coding :
 **1. Machine Learning :** AI and ML have taken technology and it's applications to the next level. It is the most intriguing field and I find it very interesting. Training models by supplying data and carrying out desired functions is challenging.
-**2. Competitive Coding :** 
+**2. Competitive Coding :** Teaches how to think and is integral for problem-solving mindset.
+**3. App Development ** 
