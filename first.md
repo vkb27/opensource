@@ -35,4 +35,4 @@ int main(){
 
 **2. Competitive Coding :** Teaches how to think and is integral for problem-solving mindset.
 
-**3. App Development ** 
+**3. App Development**
